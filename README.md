@@ -1,5 +1,5 @@
 # IBMGAEDU
-## IBM Generative AI for Educators Specialization
+## IBM Generative AI for Educators Specialization (3 course series)
 
 Over half of higher education institutes have already investigated using generative AI (gen AI) in their teaching practices to create engaging learning experiences (Gartner)! 
 
